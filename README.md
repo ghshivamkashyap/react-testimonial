@@ -32,5 +32,3 @@ Customization:
 - Testimonials Data: You can update the testimonials data in the `data.js` file by modifying the existing testimonials or adding new ones.
 
 Feel free to customize the code and styling according to your needs to enhance the user experience.
-
-Note: Remember to replace `[Add a screenshot of your application here]` and `[Repository URL]` with the appropriate information for your project.
